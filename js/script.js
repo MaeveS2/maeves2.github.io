@@ -1,4 +1,4 @@
-const elem = document.getElementById("amognus");
+const elem = document.getElementById("mouse");
 let size = 10;
 let goUp = true;
 let movingRight = true;
